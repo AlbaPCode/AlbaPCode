@@ -2,6 +2,12 @@
 
 ###
 
+<div align="right">
+  <img height="200" src="https://media.licdn.com/dms/image/D4E03AQGXyKKQJrd2zg/profile-displayphoto-shrink_800_800/0/1676372233027?e=1712793600&v=beta&t=CY8v3Mhguxw5WYiKccNNaZtOroZQfIdm5Gk2wKn-QQ4"  />
+</div>
+
+###
+
 <p align="left">My name is Alba and I'm a Junior Web Developer, Trainer, and I come from socio-educational area.</p>
 
 ###
@@ -37,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/94/bb/ed/94bbed2260511b4b88afe159d372f8bd.png"  />
+  <img height="150" src="https://cdnb.20m.es/sites/144/2017/05/chicho-terremoto-tres-puntos-colega.png"  />
 </div>
 
 ###
@@ -56,13 +62,6 @@
 </div>
 
 ###
-
-
-
-
-
-    Connect with me 🤝
-
 
 <!--
 **AlbaPCode/AlbaPCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
